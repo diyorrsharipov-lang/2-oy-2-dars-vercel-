@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.box{
+    color: #ff0000;
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+    background-color: black;
+    border-radius: 20px;
+}
