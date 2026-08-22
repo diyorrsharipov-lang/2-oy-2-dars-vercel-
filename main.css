@@ -12,3 +12,11 @@
     background-color: black;
     border-radius: 20px;
 }
+.title{
+    color: green;
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+    background-color: blue;
+    border-radius: 20px;
+}
